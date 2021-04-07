@@ -1,0 +1,11 @@
+tensorflow-gpu==1.4.1
+keras==2.2.2
+pydot
+tensorflow==1.4.1
+albumentations
+
+# Application wise
+simpleitk
+photutils
+tifffile
+libtiff
